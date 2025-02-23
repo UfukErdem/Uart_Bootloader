@@ -1,0 +1,2 @@
+../Core/my_Bootloader/src/bootloader.c:16:6:jump_Application_Code	1
+../Core/my_Bootloader/src/bootloader.c:37:6:isEnoughFlashSizeForAppCode	2
